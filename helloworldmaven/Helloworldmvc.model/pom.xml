@@ -7,7 +7,6 @@
     <artifactId>helloworldmaven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>fr.exia</groupId>
   <artifactId>Helloworldmvc.model</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Helloworldmvc.model</name>
@@ -28,4 +27,5 @@
     	<version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
+  <packaging>pom</packaging>
 </project>
