@@ -1,4 +1,4 @@
-package org.Helloworldmvc.main;
+package org.Helloworldmvc.model;
 
 import java.io.IOException;
 import java.nio.file.Files;
