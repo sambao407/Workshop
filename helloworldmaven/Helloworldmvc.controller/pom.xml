@@ -7,7 +7,6 @@
     <artifactId>helloworldmaven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>fr.exia</groupId>
   <artifactId>Helloworldmvc.controller</artifactId>
   <name>Helloworldmvc.controller</name>
   <url>http://maven.apache.org</url>
@@ -28,4 +27,5 @@
     </dependency>
   </dependencies>
   <packaging>pom</packaging>
+  <groupId>fr.exia</groupId>
 </project>

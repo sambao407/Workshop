@@ -7,7 +7,7 @@ public class Controller {
 	private final iView view;
 	private final iModel model;
 	
-	public Controller(final iView view, final imodel model) {
+	public Controller(final iView view, final iModel model) {
 		this.view = view;
 		this.model = model;
 	}
